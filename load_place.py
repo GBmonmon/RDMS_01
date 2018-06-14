@@ -2,7 +2,7 @@ import csv
 #from __future__ import print_function
 import string
 import random
-passwd = 'uvux0623023444'
+passwd = 'your password'
 import mysql
 from mysql import connector
 from mysql.connector import errorcode

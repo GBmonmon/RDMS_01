@@ -1,7 +1,7 @@
 import csv
 import string
 import random
-password = 'uvux0623023444'
+password = 'your password'
 import mysql
 from mysql import connector
 from mysql.connector import errorcode

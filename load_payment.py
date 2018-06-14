@@ -6,7 +6,7 @@ import mysql
 from mysql import connector
 from mysql.connector import errorcode
 
-cnx = connector.connect(user = 'root', password = 'uvux0623023444', database = 'classdb')
+cnx = connector.connect(user = 'root', password = 'your password', database = 'classdb')
 cursor = cnx.cursor()
 
 #SupplierID

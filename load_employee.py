@@ -7,7 +7,7 @@ from mysql.connector import errorcode
 import string
 import random
 
-cnx = connector.connect(user = 'root', password = 'uvux0623023444', database = 'classdb')
+cnx = connector.connect(user = 'root', password = 'your password', database = 'classdb')
 cursor = cnx.cursor()
 
 
